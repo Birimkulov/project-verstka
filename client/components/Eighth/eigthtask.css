@@ -1,0 +1,13 @@
+.item8{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-8{
+    width: 100px;
+    height: 100px;
+    margin: 2%;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

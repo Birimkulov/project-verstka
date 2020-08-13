@@ -1,0 +1,13 @@
+.item6{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.block6{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
